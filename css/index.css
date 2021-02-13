@@ -11140,7 +11140,7 @@ img:not([src]) {
     
 }
 
-@media only screen and (max-width:600px) {
+@media only screen and (max-width:767px) {
     #wrap-service {
         margin: 1rem
     }
@@ -11155,6 +11155,9 @@ img:not([src]) {
         z-index: 1000;
         opacity: 1;
         transform: scale(1.6)
+    }
+    body {
+        background: url('https://naga-app-ez4nyyonx.vercel.app/images/bg/main-bg.jpg') no-repeat top #022406 !important;
     }
 }
 
