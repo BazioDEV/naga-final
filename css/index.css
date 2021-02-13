@@ -10961,7 +10961,8 @@ img:not([src]) {
     body {
         background: url("https://naga-app.vercel.app/images/bg/main-bg.jpg") no-repeat top #022406;
         background-size: 100%;
-        background-attachment: fixed   
+        background-attachment: fixed;
+        display: block; 
     }
     .card-body {
         min-height: auto
@@ -11160,6 +11161,7 @@ img:not([src]) {
         background: url('https://naga-app-ez4nyyonx.vercel.app/images/bg/main-bg.jpg') no-repeat top #022406 !important;
         background-size: 100%;
         background-attachment: fixed;
+        display: block;
     }
 }
 
