@@ -399,8 +399,9 @@ body {
     font-size: .9rem;
     font-weight: 400;
     line-height: 1.6;
-    color: #212529;
-    background-color: #022406;
+    color: #fff;
+    background: rgb(2,36,6);
+    background: linear-gradient(90deg, rgba(2,36,6,1) 0%, rgba(10,148,26,1) 100%);
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     background: url('https://naga-app-f3g3aoa7v.vercel.app/images/bg/main-bg-desktop.jpg') no-repeat top #022406 !important;
