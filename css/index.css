@@ -400,9 +400,10 @@ body {
     font-weight: 400;
     line-height: 1.6;
     color: #212529;
-    background-color: #f8fafc;
+    background-color: #022406;
     -webkit-text-size-adjust: 100%;
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    background: url('https://naga-app-f3g3aoa7v.vercel.app/images/bg/main-bg.jpg') no-repeat top #022406 !important;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -10954,7 +10955,7 @@ img:not([src]) {
     }
 }
 
-@media only screen and (max-width:767px) {
+@media only screen and (max-width:600px) {
     #wrap-header #img-logo-app {
         margin-top: -2rem
     }
@@ -11141,7 +11142,7 @@ img:not([src]) {
     
 }
 
-@media only screen and (max-width:767px) {
+@media only screen and (max-width:600) {
     #wrap-service {
         margin: 1rem
     }
