@@ -10317,7 +10317,7 @@ button.close {
 
 body {
     font-family: Kanit, sans-serif;
-  background: url(/images/main-bg.jpg?9b6741bd333025515e9195b4065bcf00) no-repeat top #1b5310;
+  background: url(/images/main-bg.jpg) no-repeat top #1b5310;
   background-size: 100% auto;
   color: #fff;
   padding-bottom: 100px;
@@ -10945,7 +10945,7 @@ img:not([src]) {
 
 @media only screen and (min-width:1000px) {
     body {
-        background: url("https://naga-app.vercel.app/images/bg/main-bg-desktop.jpg") no-repeat top #022406;
+        background: url(https://naga-app.vercel.app/images/bg/main-bg-desktop.jpg) no-repeat top #022406;
         background-size: 100% auto;
         background-attachment: fixed
     }
@@ -10963,7 +10963,7 @@ img:not([src]) {
         margin-top: -2rem
     }
     body {
-        background: url("https://naga-app.vercel.app/images/bg/main-bg-desktop.jpg") no-repeat top #022406;
+        background: url(https://naga-app.vercel.app/images/bg/main-bg-desktop.jpg) no-repeat top #022406;
         background-size: 100%;
         background-attachment: fixed;
         
@@ -11162,7 +11162,7 @@ img:not([src]) {
         transform: scale(1.6)
     }
     body {
-        background: url('https://naga-app-ez4nyyonx.vercel.app/images/bg/main-bg-desktop.jpg') no-repeat top #022406 !important;
+        background: url(https://naga-app-ez4nyyonx.vercel.app/images/bg/main-bg-desktop.jpg) no-repeat top #022406 !important;
         background-size: 100%;
         background-attachment: fixed;
         display: block;
