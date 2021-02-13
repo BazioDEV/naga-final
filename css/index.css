@@ -404,6 +404,8 @@ body {
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     background: url('https://naga-app-f3g3aoa7v.vercel.app/images/bg/main-bg.jpg') no-repeat top #022406 !important;
+    background-size: 100% auto;
+    background-attachment: fixed;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -10943,7 +10945,7 @@ img:not([src]) {
 @media only screen and (min-width:1000px) {
     body {
         background: url("https://naga-app.vercel.app/images/bg/main-bg-desktop.jpg") no-repeat top #022406;
-        background-size: 100%;
+        background-size: 100% auto;
         background-attachment: fixed
     }
     .modal-content {
