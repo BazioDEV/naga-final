@@ -10317,10 +10317,10 @@ button.close {
 
 body {
     font-family: Kanit, sans-serif;
-    background-image: url("https://naga-app.vercel.app/images/bg/main-bg.jpg") no-repeat top #022406 !important;
-    background-size: 100% auto;
-    color: #fff;
-    padding-bottom: 100px
+  background: url(/images/main-bg.jpg?9b6741bd333025515e9195b4065bcf00) no-repeat top #1b5310;
+  background-size: 100% auto;
+  color: #fff;
+  padding-bottom: 100px;
 }
 
 .img-hover figure img {
