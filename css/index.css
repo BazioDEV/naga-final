@@ -10695,7 +10695,7 @@ img:not([src]) {
 }
 
 .modal-dialog {
-    background: url(images/bg/main-bg.jpg) no-repeat top #022406 !important;
+    background: url(https://naga-app.vercel.app/images/bg/main-bg.jpg) no-repeat top #022406 !important;
     background-size: 100% auto !important
 }
 
@@ -10941,7 +10941,7 @@ img:not([src]) {
 
 @media only screen and (min-width:1000px) {
     body {
-        background: url(images/bg/main-bg-desktop.jpg) no-repeat top #022406;
+        background: url(https://naga-app.vercel.app/images/bg/main-bg-desktop.jpg) no-repeat top #022406;
         background-size: 100%;
         background-attachment: fixed
     }
@@ -10950,7 +10950,7 @@ img:not([src]) {
         width: 100%
     }
     .modal-dialog {
-        background: url(images/bg/maing-bg-desktop.jpg) no-repeat top #022406 !important
+        background: url(https://naga-app.vercel.app/images/bg/maing-bg-desktop.jpg) no-repeat top #022406 !important
     }
 }
 
