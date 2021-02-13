@@ -10313,7 +10313,7 @@ button.close {
 
 body {
     font-family: Kanit, sans-serif;
-    background-image: url("../images/bg/main-bg.jpg") no-repeat top #022406;
+    background-image: url("https://naga-app.vercel.app/images/bg/main-bg.jpg") no-repeat top #022406;
     background-size: 100% auto;
     color: #fff;
     padding-bottom: 100px
