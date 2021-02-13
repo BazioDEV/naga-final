@@ -10313,7 +10313,7 @@ button.close {
 
 body {
     font-family: Kanit, sans-serif;
-    background-image: url(images/bg/main-bg.jpg) no-repeat top #022406;
+    background-image: url("../images/bg/main-bg.jpg") no-repeat top #022406;
     background-size: 100% auto;
     color: #fff;
     padding-bottom: 100px
@@ -10695,7 +10695,7 @@ img:not([src]) {
 }
 
 .modal-dialog {
-    background-image: url("images/bg/main-bg.jpg") no-repeat top #022406 !important;
+    background: url("../images/bg/main-bg.jpg") no-repeat top #022406 !important;
     background-size: 100% auto !important
 }
 
@@ -10941,7 +10941,7 @@ img:not([src]) {
 
 @media only screen and (min-width:1000px) {
     body {
-        background-image: url("images/bg/main-bg-desktop.jpg") no-repeat top #022406;
+        background: url("../images/bg/main-bg-desktop.jpg") no-repeat top #022406;
         background-size: 100%;
         background-attachment: fixed
     }
@@ -10950,7 +10950,7 @@ img:not([src]) {
         width: 100%
     }
     .modal-dialog {
-        background-image: url("images/bg/maing-bg-desktop.jpg") no-repeat top #022406 !important
+        background: url("../images/bg/main-bg-desktop.jpg") no-repeat top #022406 !important
     }
 }
 
